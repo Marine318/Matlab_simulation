@@ -3,7 +3,7 @@ This is a Matlab simulation project about ecological population competition, whi
 ## 程序运行指南
 1. 点击test.m，让源路径在该文件夹下，点击运行
 
-![img](figs\图片1.jpg) 
+![img](/figs/图片1.png) 
 
 2. 输入相关参数，可以自己定义，这里我给一个示例
 
